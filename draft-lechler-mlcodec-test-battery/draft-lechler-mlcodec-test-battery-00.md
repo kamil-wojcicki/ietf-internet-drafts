@@ -26,10 +26,12 @@ author:
     fullname: "Laura Lechler"
     organization: Cisco Systems
     email: "llechler@cisco.com"
+    country: "United Kingdom"
  -
     fullname: "Kamil Wojcicki"
     organization: Cisco Systems
     email: "kamilwoj@cisco.com"
+    country: "Australia"
 
 normative:
   RFC2119:

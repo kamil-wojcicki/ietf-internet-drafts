@@ -3,7 +3,7 @@ title: "Test Battery for Opus ML Codec Extensions"
 abbrev: "MlCodecTestBattery"
 category: info
 
-docname: draft-lechler-mlcodec-test-battery-00-latest
+docname: draft-lechler-mlcodec-test-battery-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:

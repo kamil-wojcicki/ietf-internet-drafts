@@ -5,7 +5,7 @@
 Machine Learning for Audio Coding                             L. Lechler
 Internet-Draft                                               K. Wojcicki
 Intended status: Informational                             Cisco Systems
-Expires: 9 January 2026                                      8 July 2025
+Expires: 21 January 2026                                    20 July 2025
 
 
                Test Battery for Opus ML Codec Extensions
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 9 January 2026.
+   This Internet-Draft will expire on 21 January 2026.
 
 
 
@@ -53,7 +53,7 @@ Status of This Memo
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 1]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 1]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 2]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 2]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -165,7 +165,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 3]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 3]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -221,7 +221,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 4]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 4]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -277,7 +277,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 5]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 5]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -333,7 +333,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 6]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 6]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -389,7 +389,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 7]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 7]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -445,7 +445,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 8]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 8]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -501,7 +501,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                 [Page 9]
+Lechler & Wojcicki       Expires 21 January 2026                [Page 9]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -557,7 +557,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                [Page 10]
+Lechler & Wojcicki       Expires 21 January 2026               [Page 10]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -613,7 +613,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                [Page 11]
+Lechler & Wojcicki       Expires 21 January 2026               [Page 11]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -669,7 +669,7 @@ Internet-Draft             MlCodecTestBattery                  July 2025
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                [Page 12]
+Lechler & Wojcicki       Expires 21 January 2026               [Page 12]
 
 Internet-Draft             MlCodecTestBattery                  July 2025
 
@@ -725,4 +725,4 @@ Authors' Addresses
 
 
 
-Lechler & Wojcicki       Expires 9 January 2026                [Page 13]
+Lechler & Wojcicki       Expires 21 January 2026               [Page 13]
